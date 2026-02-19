@@ -1,0 +1,10 @@
+import streamlit as st
+import pandas as pd
+import plotly.express as px
+
+data = pd.read_csv("data/ev_data.csv")
+
+st.title("EV Charge and Range Analysis")
+
+fig = px.line(data, x="Charge_Level", y="Distance", title="Charge vs Distance")
+st.plotly_chart(fig)
