@@ -1,0 +1,34 @@
+# Visualization Tool for Electric Vehicle Charge and Range Analysis
+
+## Project Overview
+This project analyzes electric vehicle battery charge, energy consumption, and driving range using data visualization techniques.
+
+## Features
+- Battery charge analysis
+- Driving range visualization
+- Energy consumption analysis
+- Interactive dashboard
+
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Plotly
+- Streamlit
+
+## Dataset
+EV dataset contains:
+- Battery capacity
+- Charge level
+- Distance traveled
+- Energy consumption
+- Charging time
+
+## How to Run
+
+Step 1: Install libraries
+pip install pandas numpy matplotlib plotly streamlit
+
+Step 2: Run application
+streamlit run app.py
