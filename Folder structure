@@ -1,0 +1,9 @@
+EV-Visualization-Tool/
+│
+├── data/
+│   └── ev_data.csv
+│
+├── app.py
+├── analysis.py
+├── README.md
+└── requirements.txt
