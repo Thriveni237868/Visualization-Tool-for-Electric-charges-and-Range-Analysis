@@ -1,0 +1,40 @@
+4. Technologies Used
+Programming Language: Python
+Libraries:
+• Pandas – Data analysis
+• NumPy – Numerical calculations
+• Matplotlib / Seaborn / Plotly – Visualization
+• Streamlit or Dash – Dashboard development
+Tools:
+• Jupyter Notebook
+• VS Code
+• GitHub
+
+
+5. Dataset Information
+Dataset includes:
+• Battery Capacity (kWh)
+• Charge Level (%)
+• Distance traveled (km)
+• Energy consumption (Wh/km)
+• Charging time (minutes)
+• Vehicle speed (km/h)
+Dataset sources:
+• Kaggle EV datasets
+• Simulated data
+
+
+6. System Architecture
+Steps:
+Data Collection
+Data Cleaning
+Data Analysis
+Visualization
+Dashboard Creation
+
+7. Features of the Tool
+• Battery charge visualization
+• Range prediction graph
+• Charging efficiency analysis
+• Interactive dashboard
+• User-friendly interface
