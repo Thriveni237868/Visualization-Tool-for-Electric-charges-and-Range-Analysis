@@ -1,0 +1,12 @@
+*. Objectives
+• Analyze EV battery charge and discharge patterns
+• Visualize driving range based on battery level
+• Monitor charging time and efficiency
+• Predict remaining driving range using data analysis
+• Build interactive dashboards for easy understanding
+*. Problem Statement
+EV users face uncertainty about:
+• How far they can travel with current battery charge
+• How charging affects battery performance
+• How driving conditions affect energy consumption
+This project solves these problems using data visualization and analysis.
